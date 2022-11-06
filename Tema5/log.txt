@@ -1,0 +1,9 @@
+[E][06-11-2022 18:42:39]: Ha habido un error inesperado
+[I][06-11-2022 18:42:39]: Todo correcto
+[W][06-11-2022 18:42:39]: Warning
+[E][06-11-2022 18:42:40]: Ha habido un error inesperado
+[I][06-11-2022 18:42:40]: Todo correcto
+[W][06-11-2022 18:42:40]: Warning
+[E][06-11-2022 18:42:40]: Ha habido un error inesperado
+[I][06-11-2022 18:42:40]: Todo correcto
+[W][06-11-2022 18:42:40]: Warning
